@@ -1,8 +1,8 @@
 @media all and (max-width: 767px) and (min-width: 480px) {
-	.container1__header,
+/*	.container1__header,
 	.container2__about,
 	.container3__testimonial,
-	.container3__updates,
+	.container3__updates,*/
 	.footer__designed {
 		width: 100%;
 	}
@@ -294,7 +294,7 @@
 
 	.updates__more {
 		margin-top: 19px;
-		margin-left: 34%;
+		margin-left: 47.5%;
 	}
 
 	.updates__more960 {
@@ -302,42 +302,47 @@
 	}
 
 	.container3__brands {
-		width: 373px;
+		/*width: 373px;*/
 		margin-left: 25.5%;
 		margin-top: 37px;
 	}
 
 	.brands__logo:first-child {
-		margin-left: 6%;
+		position: absolute;
+		margin-left: 3%;
 		margin-right: 13.5%;
 	}
 
 	.brands__logo:nth-child(2) {
-		margin-left: 0;
+		position: absolute;
+		margin-left: 20%;
 		margin-right: 0;
 	}
 
 	.brands__logo:nth-child(3) {
+		position: absolute;
 		margin-top: 0;
-		margin-left: 13.5%;
+		margin-left: 37%;
 		margin-right: 0;
 	}
 
 	.brands__logo:nth-child(4) {
-		margin-left: 2%;
-		margin-top: 6%;
+		position: absolute;
+		margin-left: 1%;
+		margin-top: 12.3%;
 		margin-right: 0;
 	}
 
 	.brands__logo:nth-child(5) {
 		position: absolute;
-		margin-top: 6%;
-		margin-left: 7.5%;
+		margin-top: 15.4%;
+		margin-left: 15.7%;
 	}
 
 	.brands__logo:last-child {
-		margin-left: 57%;
-		margin-top: 6.5%;
+		position: absolute;
+		margin-left: 37.2%;
+		margin-top: 12.5%;
 	}
 
 	.container3__line3,
@@ -431,7 +436,7 @@
 		margin-left: 40.5%;
 	}
 
-}
+
 
 
 

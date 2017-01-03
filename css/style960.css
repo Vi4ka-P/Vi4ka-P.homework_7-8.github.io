@@ -122,7 +122,7 @@
 		top: 83px;
 	}
 
-	.lorem__right-arrow {
+    .lorem__right-arrow {
 		position: absolute;
 		margin-top: 99px;
 		margin-left: 36.8%;
@@ -310,15 +310,15 @@
 	}
 
 	.container3__brands {
-		width: 100%;
+		/*	width: 100%; */
 		margin-left: 29.65%;
 		margin-top: 25px;
 		margin-bottom: 0;
 	}
 
 	.brands__logo:nth-child(2) {
-		margin-left: 3.2%;
-		margin-right: 3.15%;
+		margin-left: 4.55%;
+		margin-right: 4.45%;
 	}
 
 	.brands__logo:nth-child(3) {
@@ -326,7 +326,7 @@
 	}
 
 	.brands__logo:nth-child(4) {
-		margin-left: 3.75%;
+		margin-left: 5.35%;
 	}
 
 	.brands__logo:nth-child(5) {
@@ -336,7 +336,7 @@
 	}
 
 	.brands__logo:last-child {
-		margin-left: 12.2%;
+		margin-left: 17.4%;
 		margin-top: 2px;
 	}
 
@@ -472,9 +472,3 @@
 		margin-left: 68%;
 		margin-top: 12px;
 	}
-
-
-
-
-
-}

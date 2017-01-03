@@ -1,7 +1,7 @@
 @media all and (max-width: 959px) and (min-width: 768px) {
-	.container1__header,
+	/*.container1__header,
 	.container2__about,
-	.container3__testimonial,
+	.container3__testimonial,*/
 	.footer__designed {
 		width: 100%;
 	}
@@ -267,15 +267,15 @@
 	}
 
 	.container3__brands {
-		width: 100%;
+		/*width: 100%;*/
 		margin-left: 11%;
 		margin-top: 26px;
 		margin-bottom: 0;
 	}
 
 	.brands__logo:nth-child(2) {
-		margin-left: 5.6%;
-		margin-right: 5.4%;
+		margin-left: 6.3%;
+		margin-right: 6%;
 	}
 
 	.brands__logo:nth-child(3) {
@@ -283,7 +283,7 @@
 	}
 
 	.brands__logo:nth-child(4) {
-		margin-left: 6.5%;
+		margin-left: 7.5%;
 	}
 
 	.brands__logo:nth-child(5) {
@@ -293,7 +293,7 @@
 	}
 
 	.brands__logo:last-child {
-		margin-left: 22.8%;
+		margin-left: 25.5%;
 		margin-top: 2px;
 	}
 
@@ -358,8 +358,6 @@
 		display: none;
 	}
 
-	
-
 	.categories1__text,
 	.categories2__text,
 	.categories3__text {
@@ -399,6 +397,3 @@
 		padding-top: 103px;
 		margin-left: 74%;
 	}
-
-
-}

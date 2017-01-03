@@ -1,13 +1,4 @@
 @media all and (max-width: 479px) {
-	.container1__header,
-	.container2__about,
-	.container3__testimonial,
-	.container3__updates,
-	.container3__brands,
-	.footer__designed {
-		width: 100%;
-	}
-
 	.container1__header {
 		height: 516px;
 		border-bottom: 1px solid #33253a;
